@@ -1,0 +1,8 @@
+slither-analyzer>=0.10.0
+torch
+torch-geometric
+gensim>=4.3.0
+numpy
+tqdm
+py-solc-x
+networkx
